@@ -28,4 +28,3 @@ def get_response(url):
             break
         except:
             print("Retrying with diffrent Proxy")
-    
